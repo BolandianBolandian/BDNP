@@ -1,5 +1,5 @@
 # BDNP
-an amazing Machine Learning model for predicting the future of the USD/IRR and stock market in Iran.
+an amazing Machine Learning model for predicting the future of the USD/IRR and Iranian stock market.
 
 ### What made me think of making this ML model?
 According to the several years of experience I had in trading the Iranian stock market and USD/IRR,some patterns were formed at different points in the stock market and USD/IRR market at the same time, which recently attracted my attention.
