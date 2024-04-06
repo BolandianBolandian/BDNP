@@ -25,5 +25,5 @@ In the tests, the mentioned model was able to make its predictions with 70% accu
 Keep in mind that the output of this model, in the determined time intervals, can be placed next to the strong technical analysis performed by the specialist in that field and increase its accuracy with this work and increase the validity of its prediction.
 
 ### How to trust in this ML model? Let`s check it out.
-Since it is not possible for me to publish the complete code written to build the BDNP model, I intend to publish the outputs of the model [here](), period by period, and after the completion of each period, I will post a report based on the evaluation of the prediction in the relevant section. 
+Since it is not possible for me to publish the complete code written to build the BDNP model, I intend to publish the outputs of the model [here](https://github.com/BolandianBolandian/BDNP/tree/main/Model%20Predictions), period by period, and after the completion of each period, I will post a report based on the evaluation of the prediction in the relevant section. 
 
