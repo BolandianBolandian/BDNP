@@ -9,9 +9,11 @@ As it is obvious, the correlation between the Iranian stock market and USD/IRR r
 The point that forced me to create an ML model to discover the secret of the formation of these different patterns in different time frames was that these patterns are never formed by chance and I am sure there is a logic and algorithm behind it that i think only machine learning methods can discover.
 
 ### How does this ML model work?
-In general, the mission of this ML model is to predict the best market for investment in the next period, this is why we call it "BDNP" -Best Decision for Next Period- . in this way, different information (29 features) from the Iranian stock market and the USD/IRR market is given to the model and it makes the desired prediction for us.
+In general, the mission of this ML model is to predict the best market for investment in the next period, this is why we call it "BDNP" -Best Decision for Next Period- . in this way, different information (30 features) from the Iranian stock market and the USD/IRR market is given to the model and it makes the desired prediction for us.
 In other words, this model was created to answer this question:
 In the next 6 days in IRAN, if I have some money to invest, which is the best option between the Iranian stock market and the US dollar?
+You can see part of the data given to the model below:
+
 
 ### Why the next 6 days?
 You probably know that Iran's economy is unstable with high annual and monthly inflation. for Example you can see the USD/IRR rate in last 14 years below:<br><br><br>
