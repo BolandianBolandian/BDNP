@@ -11,7 +11,7 @@ The point that forced me to create an ML model to discover the secret of the for
 ### How does this ML model work?
 In general, the mission of this ML model is to predict the best market for investment in the next period, this is why we call it "BDNP" -Best Decision for Next Period- . in this way, different information (30 features) from the Iranian stock and the USD/IRR market is given to the model and it makes the desired prediction for us.
 In other words, this model was created to answer this question:
-In the next 6 days in IRAN, if I have some money to invest, which is the best option between the Iranian stock market and the US dollar?
+In the next 6 days in IRAN, if I have some money to invest, which is the best option between the Iranian stock market and the US dollar?<br>
 You can see part of the data given to the model [here]()
 
 
