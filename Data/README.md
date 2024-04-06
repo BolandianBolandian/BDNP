@@ -1,7 +1,7 @@
 # What does this file contain?
 Obviously, it is not possible to mention all the features used in model training clearly and precisely, but in general, it should be said that features 
 such as USD/IRR rate, stock market index, stock market transaction value, stock market value in USD, etc. is used in this section.
-In this sample file, in general, the names of the features are named from F1 to F30, and the last column is the prediction column and it is formed with
+In this [sample file](https://github.com/BolandianBolandian/BDNP/blob/main/Data/Train_Data_Sample.csv), in general, the names of the features are named from F1 to F30, and the last column is the prediction column and it is formed with
 three different states 0, 1 and 2. <br>
 0 means 'IRR', 1 means 'USD' and 2 means 'Iranian Stock'.
 each prediction is made for next period, according to its row data. 
