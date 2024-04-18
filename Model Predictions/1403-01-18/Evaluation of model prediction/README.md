@@ -20,3 +20,10 @@ the opening price on 1403-01-19 is 53292 IRR and the closing price on 1403-01-27
 <br />
 ## Did "BDNP" predict correctly?
 💪🏻Yes!
+"BDNP" had predicted that USD/IRR would have the highest return in this period, so it predicted correctly.
+
+UDS/IRR ➡️ +2.06%  
+Fixed-income Fund ➡️ +0.61%  
+Iranian Stocks ➡️ -1.66%
+
+
