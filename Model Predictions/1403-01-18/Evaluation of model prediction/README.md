@@ -2,7 +2,7 @@ According to [BourseView.com](https://www.bourseview.com/) data;
 ## USD/IRR:
 the opening price on 1403-01-19 is 655000 IRR and the closing price on 1403-01-27 is 668500 IRR (+2.06%).  
 <br />
-## Iranian Stocks:
+## SIF index:
 #### DARIUSH stock investment fund
 the opening price on 1403-01-19 is 17400 IRR and the closing price on 1403-01-27 is 17138 IRR (-1.51%).
 #### KARDAN stock investment fund
